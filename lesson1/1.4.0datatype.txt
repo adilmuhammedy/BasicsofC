@@ -7,7 +7,7 @@ primitive datatypes are :
 		it refers to the decimal value.such as 90.3,5.44 etc. A float can print 6 digits after the decimal.
 	3. char
 		it refers to the character. such as our english alphabets.
-	4. boolen
+	4. boolean
 		it can only print true or false.
 
 other datatypes are:
